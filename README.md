@@ -137,7 +137,8 @@ else:
 - The enhanced grayscale image is displayed.
 - The equalized histogram shows the redistribution of pixel intensities.
 
-<img width="935" height="720" alt="image" src="https://github.com/user-attachments/assets/a298dce2-a954-4bd2-8573-03c44a716bb7" />
+<img width="703" height="642" alt="image" src="https://github.com/user-attachments/assets/413889bf-dda5-4530-8688-ee7a8da79754" />
+
 
 ### Color Image Histogram Equalization
 
@@ -147,7 +148,7 @@ else:
 - The enhanced V-channel histogram is plotted.
 - The enhanced image is saved as `enhanced_color.jpg`.
 
-<img width="1070" height="717" alt="image" src="https://github.com/user-attachments/assets/2ec5e5d9-a57b-40f7-8e46-c78c63afe6cf" />
+<img width="822" height="637" alt="image" src="https://github.com/user-attachments/assets/5a83e23e-734a-49e7-abf0-f30cb27999c3" />
 
 ## Result
 
