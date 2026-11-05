@@ -29,7 +29,9 @@ To write a Python program using OpenCV to perform histogram equalization on gray
 12. Save the enhanced color image as `enhanced_color.jpg`.
 
 ## Program
-
+## Developed by : 
+### NAME : MADHUMITHA R R
+### REG NO : 212224240083
 ### 1. Grayscale Histogram Equalization
 
 ```python
